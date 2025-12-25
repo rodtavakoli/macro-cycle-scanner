@@ -1,0 +1,21 @@
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.ipynb_checkpoints/
+
+# Data (never commit raw data)
+**/data/raw/
+**/data/processed/
+**/data/features/
+
+# Generated outputs
+**/powerbi/exports/
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+
+
