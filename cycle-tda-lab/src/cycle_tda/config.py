@@ -1,0 +1,13 @@
+# src/cycle_tda/config.py
+
+WINDOW_MONTHS = 60
+STRIDE = 1
+
+AMI_MAX_TAU = 60
+AMI_BINS = 32
+
+FNN_M_MAX = 12
+FNN_RTOL = 10.0
+FNN_THRESH = 5.0
+
+TAU_CAP_FRAC = 10
