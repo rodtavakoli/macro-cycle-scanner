@@ -1,6 +1,6 @@
 # Macro-Cycle-Scanner
 
-Macro-financial regime diagnostics using topological coherence analysis.
+Macro-financial regime diagnostics using topological data analysis.
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,9 +8,11 @@ Macro-financial regime diagnostics using topological coherence analysis.
 
 ## Overview
 
-Macro-Cycle-Scanner is a research-driven system designed to diagnose macro-financial regime coherence across long horizons.
+To understand the now, you need to understand what happened before.
 
-Rather than forecasting prices, the project focuses on identifying when macroeconomic and market systems lose structural alignment, which is a condition historically associated with elevated systemic stress and asymmetric downside risk.
+Macro-Cycle-Scanner is a system initially designed for personal macro economic understanding and speculation that evolved into a comprehensive regime coherence tool across century wide horizons. 
+
+Rather than forecasting prices, this project focuses on identifying when macroeconomic and market systems lose structural alignment, which is a condition historically associated with elevated systemic stress and asymmetric downside risk.
 
 The core output is a composite diagnostic signal, the Coherence Collapse Index (CCI), which summarizes cross-system fragmentation using nonlinear and validation-first techniques.
 
