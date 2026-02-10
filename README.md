@@ -53,6 +53,9 @@ The outputs are explicitly diagnostic and speculative rather than predictive and
 
 Results are explored and summarized through an interactive Power BI dashboard composed of several analytical layers:
 
+![Macro Confidence Snapshot](cycle-tda-lab/docs/figures/dashboard_macro_confidence.png)
+
+
 ### Macro Overview  
 Long-run macro indicators including inflation, liquidity, labor conditions, yield curve structure, and composite stress metrics.
 
@@ -70,6 +73,9 @@ Primary diagnostic view: current coherence regime, confidence state, and macro s
 
 ### Regime Validation & Stress Behavior  
 Historical validation context, drawdown behavior during similar regimes, and asset-level signal usability.
+
+![Regime Validation](cycle-tda-lab/docs/figures/dashboard_regime_validation.png)
+
 
 Visual exports are included for reference; underlying dashboard logic is not distributed.
 
