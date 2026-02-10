@@ -12,9 +12,9 @@ To understand the now, you need to understand what happened before.
 
 Macro-Cycle-Scanner is a system initially designed for personal macro economic understanding and speculation that evolved into a comprehensive regime coherence tool across century wide horizons. 
 
-Rather than forecasting prices, this project focuses on identifying when macroeconomic and market systems lose structural alignment, which is a condition historically associated with elevated systemic stress and asymmetric downside risk.
+Instead of than forecasting prices, the purpose of this project is to analyze when macroeconomic systems lose structural alignment via Topological Data Analysis (TDA).
 
-The core output is a composite diagnostic signal, the Coherence Collapse Index (CCI), which summarizes cross-system fragmentation using nonlinear and validation-first techniques.
+The core output is a composite diagnostic signal, the Coherence Collapse Index (CCI), used to summarize the cross-system fragmentation using nonlinear and validation-first techniques.
 
 > Note: This repository is intended as a research showcase.  
 > Core model logic, parameterization, and production workflows are intentionally abstracted.
@@ -38,7 +38,7 @@ The framework is inspired by:
 
 ## What the System Produces
 
-At a high level, the system provides:
+The system provides:
 
 - Regime diagnostics (stable, transitionary, fragmented)
 - Cross-system coherence measures
